@@ -50,7 +50,7 @@ let session = `./${setting.sessionName}.json`
 const { state, saveState } = useSingleFileAuthState(session)
 
 function title() {
-	  console.log(chalk.bold.blue(figlet.textSync('                  AINO', {
+	  console.log(chalk.bold.blue(figlet.textSync('                  YUSUF', {
 		font: 'Standard',
 		horizontalLayout: 'default',
 		verticalLayout: 'default',
