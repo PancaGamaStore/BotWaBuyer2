@@ -1,5 +1,5 @@
 {
-  "name": "aino",
+  "name": "yusuf",
   "version": "1.0.0",
   "description": "Bot Store Bayles Multi Device.",
   "main": "index.js",
@@ -10,7 +10,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node index.js"
   },
-  "author": "jo",
+  "author": "yusuf",
   "license": "MIT",
   "dependencies": {
     "@adiwajshing/baileys": "4.1.0",
